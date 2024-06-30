@@ -1,11 +1,4 @@
-Survey Dataset Exploration
-In this notebook, we will:
 
-Load the dataset that will be used thru the capstone project.
-Explore the dataset.
-Get familier with the data types.
-Loading the dataset
-Let's import the required libraries.
 
 import pandas as pd
 import urllib.request
